@@ -1,0 +1,2 @@
+Item_code	Item_name	Price
+211345678	penpencil	20
